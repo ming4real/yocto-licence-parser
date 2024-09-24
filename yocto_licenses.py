@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 
+# (c) Iain Menzies-Runciman
+# SPDX-License-Identifier: MIT
+
 import argparse
 import os.path
 import sys
